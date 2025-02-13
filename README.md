@@ -10,19 +10,19 @@ Project consists of a simple linear regression model training to determine the b
 - <b>Python</b> 
 - <b>Jupyter notebook</b>
 
-<h2>Environments Used </h2>
+<h2>Platform </h2>
 
 - <b>Jupiter notebook</b> (21H2)
 
-<h2>USA Housing project walk-through(See files attached):</h2>
+<h2>AR Face Filter project walk-through:</h2>
+
+ ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <p align="center">
 Importing Libraries : <br/>
 <img src="https://i.imgur.com/mxtnj6U.jpeg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Data Evaluation : <br/>
-<img src="https://i.imgur.com/ml39CrX.mp4"80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 
  <h2>Summary</h2>
