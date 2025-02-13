@@ -16,7 +16,7 @@ Project consists of a simple linear regression model training to determine the b
 
 <h2>AR Face Filter project walk-through:</h2>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://youtube.com/shorts/1ymnnfhU7PU?feature=share)
 
 <p align="center">
 Importing Libraries : <br/>
