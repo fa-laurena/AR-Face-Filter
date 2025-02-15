@@ -26,8 +26,11 @@ In this project, I am exploring AR foundation for a simple face filter with ARCo
  ### [YouTube Demonstration](https://youtube.com/shorts/1ymnnfhU7PU?feature=share)
 
 <p align="center">
-Importing Libraries : <br/>
-<img src="https://i.imgur.com/mxtnj6U.jpeg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Base reference : <br/>
+<img src="https://i.imgur.com/OMk2vc5.jpeg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Prototype : <br/>
+<img src="https://i.imgur.com/VjzWUk5.jpeg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
