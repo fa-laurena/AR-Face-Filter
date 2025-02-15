@@ -1,18 +1,24 @@
 <h1> Face filter - AR  </h1>
 
 <h2>Description</h2>
-Project consists of a simple linear regression model training to determine the best Housing area of the USA States to consider real estate, it include area and estimations data important to i train the model correctly.
+In this project, I am exploring AR foundation for a simple face filter with ARCore for android basic face detection, AR SDK plug-ins, FBX integration and simple face tracking.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and Features Used</h2>
 
-- <b>Python</b> 
-- <b>Jupyter notebook</b>
+- <b>AR frameworks(AR Foundation, OpenCV, ARKit & ARCore) </b> 
+- <b>computer vision</b>
+- <b>3D rendering</b>
+- <b>AR Face Manager</b>
+- <b>Rigging & Skinned Mesh</b>
+- <b>Blendshape Animation</b>
 
 <h2>Platform </h2>
-
-- <b>Jupiter notebook</b> (21H2)
+- <b>Unity</b>
+- <b>Blender</b>
+- <b>FBX face mask</b>
+- <b>Visual Studio Code(C#)</b>
 
 <h2>AR Face Filter project walk-through:</h2>
 
@@ -26,7 +32,8 @@ Importing Libraries : <br/>
 
 
  <h2>Summary</h2>
-we can determine from the trainned models ...
+This is a Basic experience od AR Foundation in Unity, A lot of features can be use to make more complex  and professional projects using AR Face Manager,	AR Face Mesh, AR Face Landmarks, 	
+Blend Shapes, Custom Shaders, Texture Mapping, Particle Systems, Post-Processing.
 <br />
 
 <!--
