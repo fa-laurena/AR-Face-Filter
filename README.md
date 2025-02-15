@@ -18,7 +18,8 @@ In this project, I am exploring AR foundation for a simple face filter with ARCo
 - <b>Unity</b>
 - <b>Blender</b>
 - <b>FBX face mask</b>
-- <b>Visual Studio Code(C#)</b>
+- <b>Visual Studio Code</b>
+- <b>(C#)</b>
 
 <h2>AR Face Filter project walk-through:</h2>
 
