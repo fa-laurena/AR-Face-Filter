@@ -27,10 +27,10 @@ In this project, I am exploring AR foundation for a simple face filter with ARCo
 
 <p align="center">
 Base reference : <br/>
-<img src="Images/23cfe355-46e4-40e5-b9c2-b23179739400.jpg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![Image](https://github.com/user-attachments/assets/21b8d246-24dc-43dc-959e-c5c7f704c9a7)"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Prototype : <br/>
-<img src="https://i.imgur.com/VjzWUk5.jpeg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![Image](https://github.com/user-attachments/assets/b561eaed-7dac-4f83-bbe7-d2cc4e99464c)"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
