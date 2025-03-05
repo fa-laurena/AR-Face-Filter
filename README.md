@@ -27,7 +27,7 @@ In this project, I am exploring AR foundation for a simple face filter with ARCo
 
 <p align="center">
 Base reference : <br/>
-<img src="![Image](https://github.com/user-attachments/assets/21b8d246-24dc-43dc-959e-c5c7f704c9a7)"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/AR-Face-Filter/blob/ccff26b84cefd810aa86ad547354d1b173107c55/AR%20Face%20Filter%20Base.jpg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Prototype : <br/>
 <img src="![Image](https://github.com/user-attachments/assets/b561eaed-7dac-4f83-bbe7-d2cc4e99464c)"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
