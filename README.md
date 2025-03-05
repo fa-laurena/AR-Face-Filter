@@ -30,7 +30,7 @@ Base reference : <br/>
 <img src="https://github.com/fa-laurena/AR-Face-Filter/blob/ccff26b84cefd810aa86ad547354d1b173107c55/AR%20Face%20Filter%20Base.jpg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Prototype : <br/>
-<img src="![Image](https://github.com/user-attachments/assets/b561eaed-7dac-4f83-bbe7-d2cc4e99464c)"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/fa-laurena/AR-Face-Filter/blob/9240b03395a534adf41f3d396251c2a82617b8de/AR%20Face%20Filter%20Main.jpg"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
